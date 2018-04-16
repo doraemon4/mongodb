@@ -6,3 +6,6 @@
 
 2.spring+mongo实现复制集：
 [https://www.cnblogs.com/nicolegxt/p/9c10328bfd900f1eeb8d359cd6efdfd3.html](https://www.cnblogs.com/nicolegxt/p/9c10328bfd900f1eeb8d359cd6efdfd3.html)
+
+3.springboot+jwt+spring-security实现权限控制：
+[https://www.jianshu.com/p/6307c89fe3fa](https://www.jianshu.com/p/6307c89fe3fa)

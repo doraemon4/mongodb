@@ -5,6 +5,9 @@ import lombok.Data;
 
 import java.io.Serializable;
 
+/**
+ * 上传的文件信息
+ */
 @Builder
 @Data
 public class FileInfo implements Serializable {
